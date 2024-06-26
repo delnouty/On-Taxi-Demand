@@ -7,9 +7,11 @@ This is some additional information for the article "Data science and environmen
 The purpose of this work is to analyze the properties of the data ecosystem and highlight the key aspects of methodology for data science with respect to environmental sustainability. The results of the study are illustrated by the case study on the optimal taxi dispatching.
 
 ## On-Taxi-Demand - project description
+
 <div id="header" align="center">
   <img src="taxiImage.jfif"/ width="200">
 </div>
+
 ### Goal: Create the predictive models on taxi demand in New York:
 1. import, cleaning, and exploration of the taxi data of "SUPER TAXIS";
 2. aggregation of pick-ups and drop-offs into six regions;

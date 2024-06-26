@@ -1,6 +1,6 @@
 # Data science and environmental sustainability 
 <div id="header" align="center">
-  <img src="https://github.com/delnouty/On-Taxi-Demand/blob/main/Data%20Source/taxiBigData.jfif"/ width="200">
+  <img src="taxiImage.jfif"/ width="200">
 </div>
 This is some additional information for the article "Data science and environmental sustainability: mastering the information and knowledge"
 
